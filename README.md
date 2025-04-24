@@ -6,11 +6,12 @@ Deploy AWS Instance, WAF, Network ACLs, Security groups, CloudWatch Logs.
 Đây là model chính.
 
 
-![image](https://github.com/user-attachments/assets/04c516ca-59d7-4ac1-92aa-442fe3c7e751)
+![Untitled3](https://github.com/user-attachments/assets/55ac124f-6acb-424f-8025-e1ec90a49d7d)
 
 Kiểm thử bruteforce và thông báo đến email.
 
-![image](https://github.com/user-attachments/assets/d55351a8-5a65-4ff2-ac45-e86e5d0d22df)
+![Untitled2](https://github.com/user-attachments/assets/fd12f32c-76d0-471c-8da8-c0180fb195ba)
+
 
 Real-time logs
 
