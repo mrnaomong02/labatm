@@ -14,7 +14,8 @@ Kiểm thử bruteforce và thông báo đến email.
 
 Real-time logs
 
-![image](https://github.com/user-attachments/assets/a36845d0-c198-437a-a318-61f702b0d328)
+![Untitled](https://github.com/user-attachments/assets/f1d06b7b-a443-49ff-b2c9-1b845e250832)
+
 
 Deploy Bot để gửi thông báo
 
