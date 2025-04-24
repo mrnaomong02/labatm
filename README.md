@@ -20,5 +20,8 @@ Deploy Bot để gửi thông báo
 
 ![image](https://github.com/user-attachments/assets/83e3d0d9-22c9-4d4f-b739-c62fbc9375aa)
 
+Cấu hình S3 Bucket để nhận log từ WAF (Bảo mật cho Web Instance EC2)
+![image](https://github.com/user-attachments/assets/3529b468-f63c-4e53-bcb0-44f35dc28101)
+
 
 
